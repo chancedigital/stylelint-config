@@ -1,6 +1,6 @@
 {
   "name": "@chancedigital/stylelint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shareable configuration for stylelint following Chance Digital Coding Standards.",
   "keywords": [
     "stylelint",
@@ -22,7 +22,8 @@
   },
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "scss/**/*"
   ],
   "scripts": {
     "test": "jest"
