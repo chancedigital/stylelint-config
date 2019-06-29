@@ -31,7 +31,7 @@ module.exports = {
     'function-calc-no-unspaced-operator': true,
     'function-linear-gradient-no-nonstandard-direction': true,
     'function-parentheses-space-inside': 'always-single-line',
-    indentation: ['tab', { ignore: ['value', 'param'] }],
+    indentation: 0,
     'keyframe-declaration-no-important': true,
     'length-zero-no-unit': true,
     'max-empty-lines': 2,
