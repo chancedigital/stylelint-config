@@ -12,7 +12,7 @@ yarn add -D @chancedigital/stylelint-config stylelint
 
 If you're planning to use the SCSS superset of rules, you should also install `stylelint-scss`:
 
-```
+```shell
 yarn add -D stylelint-scss
 ```
 
@@ -22,15 +22,23 @@ Extend the configuration from your project's [stylelint configuration](https://s
 
 ```json
 {
-  "extends": "@chancedigital/stylelint-config",
+  "extends": "@chancedigital/stylelint-config"
 }
 ```
 
-Or, if your project uses SCSS and you want to opt in to additional SCSS-specific rules, extend the SCSS superset:
+Or, if your project uses SCSS and you want to opt in to additional SCSS-specific rules, extend the `scss` superset:
 
 ```json
 {
-  "extends": "@chancedigital/stylelint-config/scss",
+  "extends": "@chancedigital/stylelint-config/scss"
+}
+```
+
+If you are working on a WordPress project, extend the `wp` superset:
+
+```json
+{
+  "extends": "@chancedigital/stylelint-config/wp"
 }
 ```
 

@@ -1,3 +1,7 @@
+const generate = require('./lib/generate');
+const order = require('./lib/sort-order-smacss');
+const sortOrderRules = generate(order);
+
 module.exports = {
   plugins: ['stylelint-order'],
   rules: {
@@ -31,7 +35,7 @@ module.exports = {
     'function-calc-no-unspaced-operator': true,
     'function-linear-gradient-no-nonstandard-direction': true,
     'function-parentheses-space-inside': 'always-single-line',
-    indentation: 0,
+    indentation: [2, { ignore: ['value', 'param'] }],
     'keyframe-declaration-no-important': true,
     'length-zero-no-unit': true,
     'max-empty-lines': 2,
@@ -80,5 +84,6 @@ module.exports = {
     'property-no-vendor-prefix': true,
     'unit-no-unknown': true,
     'value-no-vendor-prefix': true,
+    'order/properties-order': sortOrderRules,
   },
 };
