@@ -1,6 +1,6 @@
 {
   "name": "@chancedigital/stylelint-config",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "Shareable configuration for stylelint following Chance Digital Coding Standards.",
   "keywords": [
     "stylelint",
@@ -34,17 +34,17 @@
     "stylelint-order": "^3.0.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.5.4",
-    "@babel/preset-env": "^7.5.4",
-    "@chancedigital/eslint-config": "^2.0.1",
-    "babel-eslint": "^10.0.2",
-    "babel-jest": "^24.8.0",
-    "eslint": "^6.0.1",
-    "eslint-plugin-import": "^2.18.0",
-    "eslint-plugin-jest": "^22.8.0",
-    "jest": "^24.8.0",
-    "prettier": "^1.18.2",
-    "stylelint": "^10.1.0"
+    "@babel/core": "7.5.5",
+    "@babel/preset-env": "7.5.5",
+    "@chancedigital/eslint-config": "4.0.1",
+    "babel-eslint": "10.0.3",
+    "babel-jest": "24.9.0",
+    "eslint": "6.2.2",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jest": "^22.16.0",
+    "jest": "24.9.0",
+    "prettier": "1.18.2",
+    "stylelint": "10.1.0"
   },
   "peerDependencies": {
     "stylelint": "^9.0.0 || ^10.0.0"
