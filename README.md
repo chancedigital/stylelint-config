@@ -1,5 +1,7 @@
 # Chance Digital stylelint Config
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chancedigital/stylelint-config.svg)](https://greenkeeper.io/)
+
 Shareable configuration for [stylelint](https://stylelint.io/) following Chance Digital Coding Standards.
 
 ## Installation
