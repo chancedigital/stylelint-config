@@ -50,7 +50,7 @@ module.exports = {
     'media-feature-parentheses-space-inside': 'never',
     'media-query-list-comma-space-after': 'always-single-line',
     'media-query-list-comma-newline-before': 'never-multi-line',
-    'no-descending-specificity': true,
+    'no-descending-specificity': [true, { ignore: ['selectors-within-list'] }],
     'no-duplicate-at-import-rules': true,
     'no-duplicate-selectors': true,
     'no-empty-source': true,
