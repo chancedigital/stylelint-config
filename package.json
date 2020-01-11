@@ -31,6 +31,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@chancedigital/css-property-sort-order-smacss": "1.0.0",
     "stylelint-order": "4.0.0"
   },
   "devDependencies": {

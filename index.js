@@ -1,5 +1,5 @@
 const generate = require('./lib/generate');
-const order = require('./lib/sort-order-smacss');
+const order = require('@chancedigital/css-property-sort-order-smacss');
 const sortOrderRules = generate(order);
 
 module.exports = {
