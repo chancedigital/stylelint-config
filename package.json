@@ -1,6 +1,6 @@
 {
   "name": "@chancedigital/stylelint-config",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Shareable configuration for stylelint following Chance Digital Coding Standards.",
   "keywords": [
     "stylelint",
@@ -12,7 +12,7 @@
     "url": "https://chancedigital.io",
     "role": "developer"
   },
-  "license": "GPL-2.0-or-later",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/chancedigital/stylelint-config.git"
