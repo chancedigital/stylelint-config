@@ -42,5 +42,5 @@ jobs:
           node --version
           npm --version
           yarn --version
-          yarn install --frozen-lockfile
+          yarn install
           yarn test --coverage
