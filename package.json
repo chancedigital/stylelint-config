@@ -45,7 +45,7 @@
     "eslint-plugin-jest": "23.8.2",
     "jest": "25.3.0",
     "prettier": "2.0.4",
-    "stylelint": "13.3.2"
+    "stylelint": "13.4.0"
   },
   "peerDependencies": {
     "stylelint": "^13.0.0"
