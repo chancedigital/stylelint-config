@@ -974,10 +974,10 @@
   resolved "https://registry.yarnpkg.com/@chancedigital/css-property-sort-order-smacss/-/css-property-sort-order-smacss-1.0.0.tgz#44275642737742d7e07a3e61f42f1be2b722c5f4"
   integrity sha512-WpNOVGTvNXrmt1SN2Yz4hRKBrvd8k9d+j2iNcRCQ64tTB2snAZ+BE+961rWOFpQwQiClZ+Z+hl31LtSpiYhklw==
 
-"@chancedigital/eslint-config@5.0.1":
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/@chancedigital/eslint-config/-/eslint-config-5.0.1.tgz#786f37d95b531c0454c0e31968be013ae0826957"
-  integrity sha512-ttUMniqgVqmEhyAfpd1/8+EeFibsFZCMIHNlcwrTASq7qo0pEBZAJtpvwmJ78B8eMGSbn4NKh8X6utEZcFC8sA==
+"@chancedigital/eslint-config@6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@chancedigital/eslint-config/-/eslint-config-6.0.0.tgz#5cdf822685f81a6b88a079c44662a7dbb154681e"
+  integrity sha512-Vf22sxapxuzeODy4pV5X/vyy/XgCyCbB+UWEbsJD5ThCn247kk8TCeHRTfWr91tU+igSaCjbZKfuPqs9duaDwA==
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.3"
