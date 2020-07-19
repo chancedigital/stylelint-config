@@ -35,7 +35,7 @@ module.exports = {
     'number-no-trailing-zeros': true,
     'property-no-unknown': [
       true,
-      { ignoreProperties: ['font-smoothing', 'font-smooth'] },
+      { ignoreProperties: ['font-smoothing', 'font-smooth', 'initial-letter'] },
     ],
     'selector-attribute-quotes': 'always',
     'selector-max-compound-selectors': 6,
