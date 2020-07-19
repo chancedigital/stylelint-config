@@ -1,6 +1,6 @@
 {
   "name": "@chancedigital/stylelint-config",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Shareable configuration for stylelint following Chance Digital Coding Standards.",
   "keywords": [
     "stylelint",
