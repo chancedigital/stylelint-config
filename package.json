@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@chancedigital/css-property-sort-order-smacss": "1.0.0",
-    "stylelint-order": "4.0.0"
+    "stylelint-order": "4.1.0"
   },
   "devDependencies": {
     "@babel/core": "7.9.0",
